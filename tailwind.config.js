@@ -1,0 +1,1 @@
+// tailwind.config.js - Estrutura inicial do DApp DAO VINCI
